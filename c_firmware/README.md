@@ -1,4 +1,4 @@
-# AIRO-LAB Drone Standardization
+# Drone Assembly Standardization
 ## Aoligei-C, Aoligei-V, Aoligei-L
 
 This documentation serves as the tutorial for setting up (from hardware to software) drone **Aoligei**, including -C (for control), -V (for visual), -L (for LiDAR).
